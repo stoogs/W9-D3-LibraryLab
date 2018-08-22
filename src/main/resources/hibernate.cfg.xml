@@ -15,5 +15,9 @@
         <property name="show_sql">true</property>
         <mapping class = "models.Borrower"/>
 
+<<<<<<< HEAD
+=======
+        <mapping class = "models.Book"/>
+>>>>>>> 2e56cc8743ed7d6a31c49d44964492c3e204ac06
     </session-factory>
 </hibernate-configuration>
